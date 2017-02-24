@@ -1,0 +1,14 @@
+libraspberrypi0:
+  debian:
+    apt:
+      packages: [libraspberrypi0]
+  ubuntu:
+    apt:
+      packages: [libraspberrypi0]
+libraspberrypi-dev:
+  debian:
+    apt:
+      packages: [libraspberrypi-dev]
+  ubuntu:
+    apt:
+      packages: [libraspberrypi-dev]
