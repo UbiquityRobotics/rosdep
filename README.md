@@ -14,5 +14,7 @@ You can add this overlay to your system creating the file:
 yaml https://raw.githubusercontent.com/UbiquityRobotics/rosdep/master/raspberry-pi.yaml
 ```
 
+Then run `rosdep update`.
+
 [1]: https://github.com/ros/rosdistro/tree/master/rosdep
 
