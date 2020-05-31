@@ -12,3 +12,17 @@ libraspberrypi-dev:
   ubuntu:
     apt:
       packages: [libraspberrypi-dev]
+libpigpio:
+  debian:
+    apt:
+      packages: [libpigpio-dev]
+  ubuntu:
+    apt:
+      packages: [libpigpio-dev]
+libpigpiod-if:
+  debian:
+    apt:
+      packages: [libpigpiod-if-dev]
+  ubuntu:
+    apt:
+      packages: [libpigpiod-if-dev]
